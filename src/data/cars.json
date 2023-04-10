@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "chevy",
+        "price": 20500,
+        "year": 2021,
+        "contact":{
+            "dealer":"latith",
+            "number":"111-222-333"
+        }
+    },
+    {
+        "id": 2,
+        "name": "ferrari",
+        "price": 1312323,
+        "year": 2015,
+        "contact":{
+            "dealer":"lala",
+            "number":"444-444-444"
+        }
+    },
+    {
+        "id": 3,
+        "name": "renault",
+        "price": 205333,
+        "year": 2002,
+        "contact":{
+            "dealer":"mimo",
+            "number":"111-555-555"
+        }
+    },
+    {
+        "id": 4,
+        "name": "chevrolert",
+        "price": 205346,
+        "year": 2008,
+        "contact":{
+            "dealer":"juan",
+            "number":"333-333-333"
+        }
+    },
+    {
+        "id": 5,
+        "name": "land Rover",
+        "price": 90340,
+        "year": 2020,
+        "contact":{
+            "dealer":"henry",
+            "number":"999-999-999"
+        }
+    }
+]
